@@ -12,7 +12,6 @@ toggle between hiding and showing the dropdown content */
 function dropdownClick() {
   document.getElementById("myDropdown").classList.toggle("show");
   var animate = createKeyframeAnimation();
-  window.alert(animate)
   document.getElementById("myDropdown").setAttribute(animate);  
   
   document.getElementById("myDropdown").animate({
