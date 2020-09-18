@@ -176,7 +176,6 @@ Basic Template stylesheet
     align-self: center;
     align-content: center;
     opacity: 0.8;
-    margin: 0px -25px;
     z-index: 1;
     animation-name: menuAnimation;
     animation-duration: 0.2s;
